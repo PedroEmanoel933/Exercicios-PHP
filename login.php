@@ -22,7 +22,7 @@
     <title>Login</title>
 </head>
 <body>
-    <form action="POST">
+    <form method="POST">
         <label for="userEmail">
             <p>Endereço de Email</p>
         </label>
